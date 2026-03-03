@@ -1,0 +1,10 @@
+APPLICATION NAME : HOSPITAL MANAGEMENT
+
+MODULES :
+		1.Book Appointment
+		2.Bill
+		3.Bed allocation
+		4.Doctor management
+		5.Patient Management
+
+JIRA : https://sriramps2004.atlassian.net/jira/software/projects/HM/list/?jql=project+%3D+%22HM%22+AND+statusCategory+%3D+Done+AND+statusCategoryChangedDate+%3E%3D+-1w&atlOrigin=eyJpIjoiZTI1NDNiZDRhZDcwNDAxMzhlYTIzNWRhOTMwODk5NzIiLCJwIjoiaiJ9
