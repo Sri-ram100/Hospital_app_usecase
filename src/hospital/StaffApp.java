@@ -25,7 +25,7 @@ public class StaffApp {
         Scanner sc = new Scanner(System.in);
 
         while (true) {
-            System.out.println("\n=== MENU ===");
+            System.out.println("\n== MENU ==");
             System.out.println("1. Add Staff");
             System.out.println("2. Fetch Staff by ID");
             System.out.println("3. Display All Staff");
