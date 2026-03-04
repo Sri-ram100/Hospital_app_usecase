@@ -80,7 +80,7 @@ public class StaffApp {
                 	break;
                 
                 case 4:
-                	System.out.println("Exiting....");
+                	System.out.println("Exiting........");
                 	sc.close();
                 	return;
                 	
